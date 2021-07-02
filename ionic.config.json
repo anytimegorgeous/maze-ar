@@ -1,5 +1,7 @@
 {
   "name": "maze-ar",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
